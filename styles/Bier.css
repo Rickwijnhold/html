@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-color: #5a5a5a;
+    color: white;
+}
+nav {
+    text-align: center;
+}
+nav a{
+    margin-left: 50px;
+    color: black;
+    font-family: Forte;
+}
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+    margin-left: 180px;
+    width: 1054px;
+    margin-top: -8px;
+}
+
+.navbar a {
+    float: left;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    margin-left: 60px;
+    width: 100px;
+    font-family: Forte;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+ footer{
+     width: 1459px;
+     padding: 11px;
+     background-color: #333333;
+     margin-top: 9%;
+     font-family: Forte;
+     height: 150px;
+     position: absolute;
+     top: 435px;
+     left: 16px;
+}
+ h2 {
+     position: absolute;
+     top: 51px;
+     left: 500px;
+ }
+ .politiek{
+     height: 117px;
+     position: absolute;
+     top: -122px;
+     right: 200px;
+     border: 1px solid black;
+     width: 209px;
+ }
+ .politie{
+     height: 117px;
+     position: absolute;
+     left: 110px;
+     border: 1px solid black;
+     top: -108px;
+     width: 209px;
+ }
+ .kermis{
+     height: 117px;
+     position: absolute;
+     left: 114px;
+     border: 1px solid black;
+     top: 200px;
+     width: 209px;
+ }
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 10px;
+    vertical-align: text-top;
+    margin-top: 18px;
+    position: relative;
+    top: 140px;
+}
+article:last-child {
+    padding-right:0px;
+}
+img.article {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    position: absolute;
+    top: 205px;
+}
+

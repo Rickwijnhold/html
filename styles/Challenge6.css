@@ -1,0 +1,72 @@
+.achtergrondje {
+    background-color: black;
+    width: 360px;
+    height: 372px;
+    border-radius: 41px;
+    position: absolute;
+    top: 155px;
+    left: 342px;
+}
+.een {
+    background-color: orange;
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 199px;
+    left: 428px;
+    border: lightblue solid 1px;
+}
+.een p {
+    font-size: 56px;
+    position: absolute;
+    left: 33px;
+    top: -42px;
+    color: white;
+}
+.twee {
+    background-color: red;
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 291px;
+    left: 428px;
+    border: lightblue solid 1px;
+}
+.twee p {
+    font-size: 56px;
+    position: absolute;
+    left: 33px;
+    top: -42px;
+    color: white;
+}
+.drie {
+    background-color: green;
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 291px;
+    left: 520px;
+    border: lightblue solid 1px;
+}
+.drie p {
+    font-size: 56px;
+    position: absolute;
+    left: 33px;
+    top: -42px;
+    color: white;
+}
+.vier {
+    background-color: yellow;
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 383px;
+    left: 520px;
+    border: lightblue solid 1px;
+}.vier p {
+     font-size: 56px;
+     position: absolute;
+     left: 33px;
+     top: -42px;
+     color: white;
+ }

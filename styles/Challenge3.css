@@ -1,0 +1,300 @@
+body {
+ background-color: #ccffff;
+}
+.januari {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: green 3px solid;
+    position: absolute;
+    left: 341px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.januari p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 25px;
+}
+.februari {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: yellow 3px solid;
+    position: absolute;
+    left: 463px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.februari p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 21px;
+}
+.maart {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: lightgreen 3px solid;
+    position: absolute;
+    left: 585px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.maart p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 26px;
+}
+.april {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: saddlebrown 3px solid;
+    position: absolute;
+    left: 341px;
+    top: 134px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.april p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 30px;
+}
+.mei {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: lightpink 3px solid;
+    position: absolute;
+    left: 463px;
+    top: 134px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.mei p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 30px;
+}
+.juni {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: turquoise 3px solid;
+    position: absolute;
+    left: 585px;
+    top: 134px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.juni p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 30px;
+}
+.juli {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: lightgreen 3px solid;
+    position: absolute;
+    left: 341px;
+    top: 252px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.juli p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 30px;
+}
+.augustus {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: mediumslateblue 3px solid;
+    position: absolute;
+    left: 463px;
+    top: 252px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.augustus p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 20px;
+}
+.september {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: dodgerblue 3px solid;
+    position: absolute;
+    left: 585px;
+    top: 252px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.september p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 12px;
+}
+.oktober {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: orange 3px solid;
+    position: absolute;
+    left: 341px;
+    top: 370px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.oktober p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 20px;
+}
+.november {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: mediumpurple 3px solid;
+    position: absolute;
+    left: 463px;
+    top: 370px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.november p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 12px;
+}
+.december {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: brown 3px solid;
+    position: absolute;
+    left: 585px;
+    top: 370px;
+    background-color: white;
+    box-shadow: #333333 5px 5px;
+}
+.december p {
+    text-align: center;
+    font-size: 19px;
+    position: absolute;
+    top: -14px;
+    left: 12px;
+}
+.januariplaatje {
+    position: absolute;
+    top: 37px;
+    left: 345px;
+    width: 98px;
+    height: 70px;
+}
+.februariplaatje {
+    position: absolute;
+    top: 37px;
+    left: 467px;
+    width: 98px;
+    height: 70px;
+}
+.maartplaatje {
+    position: absolute;
+    top: 37px;
+    left: 589px;
+    width: 98px;
+    height: 70px;
+}
+.aprilplaatje {
+    position: absolute;
+    top: 163px;
+    left: 345px;
+    width: 98px;
+    height: 70px;
+}
+.meiplaatje {
+    position: absolute;
+    top: 163px;
+    left: 467px;
+    width: 98px;
+    height: 70px;
+}
+.juniplaatje {
+    position: absolute;
+    top: 163px;
+    left: 589px;
+    width: 98px;
+    height: 70px;
+}
+.juliplaatje {
+    position: absolute;
+    top: 282px;
+    left: 345px;
+    width: 98px;
+    height: 70px;
+}
+.augustusplaatje {
+    position: absolute;
+    top: 282px;
+    left: 467px;
+    width: 98px;
+    height: 70px;
+}
+.septemberplaatje {
+    position: absolute;
+    top: 282px;
+    left: 589px;
+    width: 98px;
+    height: 70px;
+}
+.oktoberplaatje {
+    position: absolute;
+    top: 399px;
+    left: 345px;
+    width: 98px;
+    height: 70px;
+}
+.novemberplaatje {
+    position: absolute;
+    top: 399px;
+    left: 467px;
+    width: 98px;
+    height: 70px;
+}
+.decemberplaatje {
+    position: absolute;
+    top: 399px;
+    left: 589px;
+    width: 98px;
+    height: 70px;
+}
