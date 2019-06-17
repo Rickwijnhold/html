@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        form{
+            margin-left: 40%;
+            margin-top: 20%;
+            width: 300px;
+            height: auto;
+            font-size: 30px;
+            padding-left: 10px;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title>Keuzeopdracht1</title>
+</head>
+<body>
+<form onchange="changecolor(this);">
+    Kleur: <br>
+    <input type="text" name="firstname" value="type een kleur">
+    <br>
+    <input type="submit" value="Submit">
+</form>
+<script>
+    function changecolor(color) {
+        document.getElementsByTagName("body")[0].style.backgroundColor = color.value;
+    }
+</script>
+</body>
+</html>
